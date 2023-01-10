@@ -1,0 +1,26 @@
+Git init : Crear repositorio
+
+git status : para ver el estado del repositorio en el que te encuentras
+
+Git Add agrega sus archivos modificados a la cola para confirmarlos más tarde. Los archivos no se confirman
+
+git commit -m "Mensaje descriptivo" : Git commit confirma los archivos que se han agregado y crea una nueva revisión con un registro
+
+git log : Se puede utilizar para ver los logs
+ -> git log --online : Resumen de un git log
+
+git checkout : Para cambiar entre las diferentes ramas, versiones y archivos.
+
+git checkout -b "New feature main" : Nueva rama main
+
+git log --graph --oneline : Resumen de
+
+git merge : Para fusionar ramas.
+Link: https://www.atlassian.com/es/git/tutorials/using-branches/git-merge
+
+
+
+
+
+
+ 
